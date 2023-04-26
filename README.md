@@ -10,7 +10,7 @@ Hey there 👋
 
 I’m Devon, senior engineer with over 15 years of professional experience as a software and data engineer. I’m naturally entrepreneurial and at my best solving complex, intransigent problems. In working relationships I value integrity, consistency and communication, and feel most comfortable connecting and delivering value between technical, business and creative leadership. I believe excellent work comes from excellent teams, and excellent teams are founded on the free sharing of ideas, constructive debate, and trust. 
 
-Want to know more about me? [Check out my portfolio.](https://devonwalshe.github.io/)
+Want to know more? [Please visit my portfoilio](https://devonwalshe.github.io/portfolio)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -21,7 +21,7 @@ Want to know more about me? [Check out my portfolio.](https://devonwalshe.github
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devonwalshe&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/devonwalshe">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=devonwalshe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devon's GitHub Stats" />
 </a>
 
@@ -29,7 +29,7 @@ Want to know more about me? [Check out my portfolio.](https://devonwalshe.github
 
 <!-- ## 💼 Skills -->
 
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197) -->
 
 <!-- 
 Here are some ideas to get you started:
