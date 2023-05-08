@@ -13,7 +13,7 @@ I’m Devon, senior engineer with over 15 years of professional experience as a 
 Want to know more? [Please visit my portfoilio](https://devonwalshe.github.io/portfolio)
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <br>
 
@@ -23,7 +23,7 @@ Want to know more? [Please visit my portfoilio](https://devonwalshe.github.io/po
 
 <a href="https://github.com/devonwalshe">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=devonwalshe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devon's GitHub Stats" />
-</a>
+</a> -->
 
 <br>
 
